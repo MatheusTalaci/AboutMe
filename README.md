@@ -1,9 +1,8 @@
    <h1>
     Matheus Talaci
    </h1>
-     # Screenshot:
-![alt text](https://raw.githubusercontent.com/manojVivek/medium-unlimited/master/designs/screenshot.png "Before after comparison")
    
+    ![Tux, the Linux mascot](/assets/images/tux.png)
        
 
   <h2>
